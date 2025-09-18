@@ -1,0 +1,101 @@
+{
+  "site": "https://kicodebyts.com",
+  "projects": [
+    {
+      "id": "modernes-ticketsystem",
+      "title": "Modernes Ticketsystem",
+      "description": "Webbasiertes Ticketsystem mit Priorisierung, Echtzeit-Updates und sicherer Kommunikation.",
+      "tags": ["Webapp","Ticketsystem","Realtime"],
+      "url": "https://kicodebyts.com/Modernesticketsystem",
+      "image": "https://kicodebyts.com/public/Ticketsystem.gif"
+    },
+    {
+      "id": "arbeitszeugnis-analytiker",
+      "title": "Arbeitszeugnis-Analytiker",
+      "description": "Automatisierte Analyse von Arbeitszeugnissen (PDF-Upload, Note, Zusammenfassung).",
+      "tags": ["AI","PDF","Analyse"],
+      "url": "https://kicodebyts.com/Arbeitszeugniss/index.html",
+      "image": "https://kicodebyts.com/public/Bildarbeitszeugniss.jpg"
+    },
+    {
+      "id": "scrum-programm",
+      "title": "Scrum Programm",
+      "description": "Selbstentwickeltes Scrum-Tool zur Verwaltung von Sprints, Aufgaben und Teams.",
+      "tags": ["Scrum","Webapp"],
+      "url": "https://kicodebyts.com/Srcum-Program",
+      "image": "https://kicodebyts.com/public/Scrum-Programm.gif"
+    },
+    {
+      "id": "frameups",
+      "title": "FrameUps",
+      "description": "Plattform zum Vernetzen von Fotografen, Models und Studios für kurzfristige Ersatzfindung.",
+      "tags": ["Marketplace","Fotografie"],
+      "url": "https://www.frameups.de/",
+      "image": "https://kicodebyts.com/public/FrameUps.gif"
+    },
+    {
+      "id": "wetter-anzeige",
+      "title": "Wetter-Anzeige",
+      "description": "Benutzerfreundliche Wetter-App mit klarer UI und weltweiten Daten.",
+      "tags": ["Weather","API"],
+      "url": "https://kicodebyts.com/Wetter-anzeige",
+      "image": "https://kicodebyts.com/public/Wetter.png"
+    },
+    {
+      "id": "eventmatcher",
+      "title": "EventMatcher",
+      "description": "Event-System zum diskreten Finden von Personen anhand von Interessen (Armband + Profil).",
+      "tags": ["Event","Matching","IoT"],
+      "url": "https://kicodebyts.com/Webanwendung_f%C3%BCrs_Armband",
+      "image": "https://kicodebyts.com/public/Logo-wei%C3%9Fe-schrift.png"
+    },
+    {
+      "id": "cybershield",
+      "title": "CyberShield",
+      "description": "Interaktives Tool zur Analyse, Meldung und Visualisierung von Cyber-Bedrohungen.",
+      "tags": ["Security","Visualization"],
+      "url": "https://kicodebyts.com/Cyber_anwendung",
+      "image": "https://kicodebyts.com/public/CyberShield1.png"
+    },
+    {
+      "id": "sentinelview",
+      "title": "SentinelView",
+      "description": "Mandantenfähige Überwachungsplattform mit Live-Dashboard und KI-gestützter Analyse.",
+      "tags": ["Monitoring","Enterprise"],
+      "url": "https://kicodebyts.com/SentinelView/landing.html",
+      "image": "https://kicodebyts.com/public/CyberShield.png"
+    },
+    {
+      "id": "dj-wishboard",
+      "title": "DJ Wishboard",
+      "description": "Wunschplattform für Events mit QR-Code-Requests, DJ-Panel und Echtzeit-Status.",
+      "tags": ["Events","Realtime"],
+      "url": "https://dj-wishboard.de/index.html",
+      "image": "https://kicodebyts.com/public/DJ-Logo.png"
+    },
+    {
+      "id": "vk-assist-polizei",
+      "title": "VK-Assist Polizei",
+      "description": "Tool für Polizeieinheiten mit Kamera-Scan, Formularverarbeitung und PDF-Berichten.",
+      "tags": ["PublicSafety","FieldTool"],
+      "url": "https://kicodebyts.com/VK-Assist-Polizei",
+      "image": "https://kicodebyts.com/public/VK-Polizei.png"
+    },
+    {
+      "id": "montage-dienstleistung",
+      "title": "Montage & Dienstleistung (Template)",
+      "description": "Modernes Handwerks-Webdesign-Template mit Galerie, Kontaktformular und Impressum.",
+      "tags": ["Template","Design"],
+      "url": "https://kicodebyts.com/Geery-webseite",
+      "image": "https://kicodebyts.com/public/Gerry.png"
+    },
+    {
+      "id": "eventtechnik-v2",
+      "title": "Eventtechnik (v2)",
+      "description": "Interaktives Template mit virtuellem Mischpult und Anfrageformular.",
+      "tags": ["Template","Eventtech"],
+      "url": "https://kicodebyts.com/alex-webseite-neueversion",
+      "image": "https://kicodebyts.com/public/alex2.png"
+    }
+  ]
+}
