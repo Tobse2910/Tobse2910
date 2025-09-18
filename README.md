@@ -1,5 +1,7 @@
-<!-- Local PNG banner placed in the repo root as requested -->
-[![banner](./banner (2).png "banner")]
+<!-- Local PNG banner placed in the repo root as requested; using HTML for center and responsive sizing -->
+<p align="center">
+	<img src="./banner%20(2).png" alt="banner" style="max-width:100%;height:auto; border-radius:8px;" />
+</p>
 
 # Tobias Schlothane — Portfolio
 
