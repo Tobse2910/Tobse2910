@@ -19,6 +19,7 @@ Ich bin Tobias,  angehnder Webentwickler — dieses Repo enthält meine Projekt�
 ### Über mich
 
 33 Jahre, in Umschulung zum Fachinformatiker (Anwendungsentwicklung). Ich baue Web‑ und App‑Lösungen, setze KI‑Hilfen sinnvoll ein und lerne ständig neue Tools.
+Um dies gewissenhaft und in denn richtigen prozessen bedacht einzusetzen.
 
 ---
 
@@ -61,7 +62,7 @@ Die Projektübersicht findest du auf https://kicodebyts.com meiner Portfolioseit
 
 10. VK-Assist Polizei (digitale Verkehrskontroll-Dokumentation). 
 
-
+Weitere projekte findest du natürlich auf meiner persönlichen Portfolio seite. 
 ---
 
 ### Kontakt
