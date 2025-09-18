@@ -1,5 +1,5 @@
-<!-- Local SVG banner for a personalised look -->
-[![banner](./assets/banner.svg "banner")]
+<!-- Local PNG banner placed in the repo root as requested -->
+[![banner](./banner (2).png "banner")]
 
 # Tobias Schlothane — Portfolio
 
