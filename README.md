@@ -1,37 +1,69 @@
+<!-- Banner image: keeps README visually similar to screenshot -->
+[![banner](https://images.unsplash.com/photo-1503264116251-35a269479413?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3&s=5f3b2d7b6c0ee3c4b6e8f1f5f2d6b3d2 "banner")]
+
 # Tobias Schlothane — Portfolio
 
-Hi — ich bin Tobias. Das ist mein Portfolio-Repository mit einer statischen, modernen Übersicht meiner Projekte und Web‑Demos.
+Ich bin Tobias, Webentwickler — dieses Repo enthält meine Projektübersicht und ein persönliches Profil.
 
-Live‑Seite (wird angezeigt, sobald GitHub Pages aktiv ist):
+<!-- Badge row similar to screenshot -->
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=github)](https://Tobse2910.github.io/Tobse2910/)
+[![Profile](https://img.shields.io/badge/PROFILE-gray?style=for-the-badge&logo=github)](https://Tobse2910.github.io/Tobse2910/profile.html)
+[![Open To Work](https://img.shields.io/badge/OPEN--TO--WORK-green?style=for-the-badge&logo=google)](#contact)
+[![Top Repo](https://img.shields.io/badge/TOP--REPO-purple?style=for-the-badge&logo=github)](https://github.com/Tobse2910)
 
-- Portfolio: https://Tobse2910.github.io/Tobse2910/
+---
+
+## Inhaltsverzeichnis
+
+- [Über mich](#über-mich)
+- [Schnellzugriff](#schnellzugriff)
+- [Technologien & Tools](#technologien--tools)
+- [Projekte (Auswahl)](#projekte-auswahl)
+- [Kontakt](#kontakt)
+
+---
+
+### Über mich
+
+Ich erstelle moderne Frontend- und Node.js-Lösungen, automatisiere Deployments und baue Demos & Tools für Events und Monitoring.
+
+- Standort: Deutschland
+- Fokus: HTML, CSS, JavaScript, Node.js
+- Kontakt: kontakt@kicodebyts.com
+
+---
+
+### Schnellzugriff
+
+- Live-Portfolio: https://Tobse2910.github.io/Tobse2910/
 - Direktes Profil: https://Tobse2910.github.io/Tobse2910/profile.html
+- Projektdaten: `data/projects.json`
 
-## Kurze Bio
+---
 
-Ich entwickle Web‑ und App‑Projekte, nutze moderne Tools und KI‑Hilfen und baue Lösungen für Events, Monitoring und Tools im Web‑Umfeld.
+### Technologien & Tools
 
-## Wichtige Dateien
+<kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>GitHub Actions</kbd>
 
-- `index.html` — Übersicht mit Inhaltsverzeichnis & Projekt‑Karten
-- `profile.html` — Mein persönliches Profil (Name, Skills, Kontakt)
-- `data/projects.json` — Projektliste (editierbar)
+---
 
-## So bekommst du die Seite online
+### Projekte (Auswahl)
 
-1. Push das Repository zu GitHub.
-2. In den Repository‑Einstellungen → Pages: wähle Branch `gh-pages` (oder `main` wenn du Pages direkt aus main bedienen möchtest).
-3. Warte kurz; die Seite ist dann unter `https://Tobse2910.github.io/Tobse2910/` verfügbar.
+Die Projektübersicht findest du in `index.html` — die Karten verlinken zu den Live-Demos auf https://kicodebyts.com.
 
-## Automatisches Deployment
+- Modernes Ticketsystem — https://kicodebyts.com/ticketsystem
+- Arbeitszeugnis-Analytiker — https://kicodebyts.com/zeugnis
+- FrameUps — https://kicodebyts.com/frameups
 
-- Es gibt einen GitHub Action Workflow unter `.github/workflows/pages.yml`, der bei jedem Push `main` nach `gh-pages` veröffentlicht. Damit wird die Site automatisch aktualisiert.
+---
 
-## Kontakt
+### Kontakt
 
 - E‑Mail: kontakt@kicodebyts.com
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
+- GitHub: https://github.com/Tobse2910
 
-Wenn du Hilfe beim Einrichten von GitHub Pages oder beim Anpassen der Projektliste willst, sag kurz Bescheid — ich richte das für dich ein.
+---
+
+Hinweis: GitHub zeigt die `README.md` im Repository–Überblick; um statische HTML-Seiten direkt online sichtbar zu machen, nutze GitHub Pages (Branch `gh-pages` oder `main`). Das Repo enthält bereits eine Action unter `.github/workflows/pages.yml`, die beim Push die Seite veröffentlicht.
 
 
