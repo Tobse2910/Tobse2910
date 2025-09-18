@@ -17,11 +17,31 @@ Ich bin Tobias, Webentwickler — dieses Repo enthält meine Projektübersicht u
 
 ## Inhaltsverzeichnis
 
-- [Über mich](#über-mich)
-- [Schnellzugriff](#schnellzugriff)
-- [Technologien & Tools](#technologien--tools)
-- [Projekte (Auswahl)](#projekte-auswahl)
-- [Kontakt](#kontakt)
+<details>
+	<summary>🔽 Inhalt anzeigen/ausblenden</summary>
+
+	<table>
+		<tr>
+			<td valign="top" style="padding:12px 24px; border-right:1px solid rgba(255,255,255,0.06);">
+				- 📌 [Kurzübersicht](#über-mich)<br>
+				- 🎯 [Fokusbereiche](#fokusbereiche)<br>
+				- 🧰 [Tech-Stack](#-tech-stack)<br>
+				- 🚀 [Projekte (Auswahl)](#projekte-auswahl)<br>
+				&nbsp;&nbsp;&nbsp;• 🎮 [Project Arcadia](#)<br>
+				&nbsp;&nbsp;&nbsp;• 🎵 [LyriTune](#)<br>
+				&nbsp;&nbsp;&nbsp;• 🧩 [SkillForge](#)<br>
+			</td>
+			<td valign="top" style="padding:12px 24px;">
+				- 🎨 [Grafikdesign – Galerie](#)<br>
+				- 🌐 [Webdesign – Galerie](#)<br>
+				- 📜 [Zertifikate](#zertifikate)<br>
+				- 📊 [GitHub‑Statistiken](#)<br>
+				- 💛 [Kontakt](#kontakt)<br>
+			</td>
+		</tr>
+	</table>
+
+</details>
 
 ---
 
@@ -35,13 +55,13 @@ Ich erstelle moderne Frontend- und Node.js-Lösungen, automatisiere Deployments 
 
 ---
 
-### Schnellzugriff
+#### Kurzübersicht
 
-- Live-Portfolio: https://Tobse2910.github.io/Tobse2910/
-- Direktes Profil: https://Tobse2910.github.io/Tobse2910/profile.html
-- Projektdaten: `data/projects.json`
+- Umschulung: Fachinformatiker für Anwendungsentwicklung (IHK Stuttgart)
+- Schwerpunkte: Unity, Webentwicklung (PHP, JavaScript, SQL)
+- Sprachen & Tools: C#, Java, Python, PHP, JavaScript, SQL
+- Arbeitsweise: sauberer Code, testgetrieben, pragmatisch, nutzerzentriert, zukunftsorientiert
 
----
 
 ### Technologien & Tools
 
@@ -49,38 +69,52 @@ Ich erstelle moderne Frontend- und Node.js-Lösungen, automatisiere Deployments 
 
 ---
 
-### Projekte (Auswahl)
+### Projekte
 
 Die Projektübersicht findest du in `index.html` — die Karten verlinken zu den Live-Demos auf https://kicodebyts.com.
 
-- Modernes Ticketsystem — https://kicodebyts.com/ticketsystem
-- Arbeitszeugnis-Analytiker — https://kicodebyts.com/zeugnis
-- FrameUps — https://kicodebyts.com/frameups
+1. Modernes Ticketsystem (für Kommunen/Unternehmen). 
+
+
+2. Arbeitszeugnis-Analytiker (PDF hochladen → Note + Zusammenfassung). 
+
+
+3. Scrum-Programm (Sprints/Aufgaben verwalten, ohne Registrierung). 
+
+
+4. FrameUps (Vernetzungs-Plattform für Shootings). 
+
+
+5. Wetter-Anzeige (simple Wetter-App). 
+
+
+6. EventMatcher (Interessen-Matching für Events/Armbänder). 
+
+
+7. CyberShield (Vorfall-Meldung & Threat-Visualisierung). 
+
+
+8. SentinelView (mandantenfähige Cyber-Überwachungsplattform). 
+
+
+9. DJ Wishboard (QR-Songwünsche, DJ-Panel, Likes). 
+
+
+10. VK-Assist Polizei (digitale Verkehrskontroll-Dokumentation). 
+
 
 ---
 
 ### Kontakt
 
-- E‑Mail: kontakt@kicodebyts.com
-- GitHub: https://github.com/Tobse2910
-
----
-
-Hinweis: GitHub zeigt die `README.md` im Repository–Überblick; um statische HTML-Seiten direkt online sichtbar zu machen, nutze GitHub Pages (Branch `gh-pages` oder `main`). Das Repo enthält bereits eine Action unter `.github/workflows/pages.yml`, die beim Push die Seite veröffentlicht.
+- E‑Mail: Kicodebyts@outlook.com
 
 ---
 
 ### 📜 Zertifikate
 
-- 🏆 Grafikdesigner (2022)
-- ✏️ Computergrafiker (2023)
-- 🖌️ Webdesigner (2024)
 - 👨‍💻 Fachinformatiker Anwendungsentwicklung (laufend seit 2024, IHK Stuttgart)
 - 🐍 Python Grundlagen & SQL (2025)
-- 📦 Scrum (2025)
-
-[➡️ Alle Zertifikate ansehen](#)
-
 ---
 
 ### 🧰 Tech-Stack
@@ -94,12 +128,9 @@ Hinweis: GitHub zeigt die `README.md` im Repository–Überblick; um statische H
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)]()
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)]()
 
 [![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Postgres](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
-[![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
