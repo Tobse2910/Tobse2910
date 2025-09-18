@@ -5,7 +5,7 @@
 
 # Tobias Schlothane — Portfolio
 
-Ich bin Tobias, Webentwickler — dieses Repo enthält meine Projektübersicht und ein persönliches Profil.
+Ich bin Tobias,  angehnder Webentwickler — dieses Repo enthält meine Projektübersicht und ein persönliches Profil.
 
 <!-- Badge row similar to screenshot -->
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=github)](https://Tobse2910.github.io/Tobse2910/)
@@ -15,53 +15,12 @@ Ich bin Tobias, Webentwickler — dieses Repo enthält meine Projektübersicht u
 
 ---
 
-## Inhaltsverzeichnis
-
-<details>
-	<summary>🔽 Inhalt anzeigen/ausblenden</summary>
-
-	<table>
-		<tr>
-			<td valign="top" style="padding:12px 24px; border-right:1px solid rgba(255,255,255,0.06);">
-				- 📌 [Kurzübersicht](#über-mich)<br>
-				- 🎯 [Fokusbereiche](#fokusbereiche)<br>
-				- 🧰 [Tech-Stack](#-tech-stack)<br>
-				- 🚀 [Projekte (Auswahl)](#projekte-auswahl)<br>
-				&nbsp;&nbsp;&nbsp;• 🎮 [Project Arcadia](#)<br>
-				&nbsp;&nbsp;&nbsp;• 🎵 [LyriTune](#)<br>
-				&nbsp;&nbsp;&nbsp;• 🧩 [SkillForge](#)<br>
-			</td>
-			<td valign="top" style="padding:12px 24px;">
-				- 🎨 [Grafikdesign – Galerie](#)<br>
-				- 🌐 [Webdesign – Galerie](#)<br>
-				- 📜 [Zertifikate](#zertifikate)<br>
-				- 📊 [GitHub‑Statistiken](#)<br>
-				- 💛 [Kontakt](#kontakt)<br>
-			</td>
-		</tr>
-	</table>
-
-</details>
-
----
 
 ### Über mich
 
-Ich erstelle moderne Frontend- und Node.js-Lösungen, automatisiere Deployments und baue Demos & Tools für Events und Monitoring.
-
-- Standort: Deutschland
-- Fokus: HTML, CSS, JavaScript, Node.js
-- Kontakt: kontakt@kicodebyts.com
+33 Jahre, in Umschulung zum Fachinformatiker (Anwendungsentwicklung). Ich baue Web‑ und App‑Lösungen, setze KI‑Hilfen sinnvoll ein und lerne ständig neue Tools.
 
 ---
-
-#### Kurzübersicht
-
-- Umschulung: Fachinformatiker für Anwendungsentwicklung (IHK Stuttgart)
-- Schwerpunkte: Unity, Webentwicklung (PHP, JavaScript, SQL)
-- Sprachen & Tools: C#, Java, Python, PHP, JavaScript, SQL
-- Arbeitsweise: sauberer Code, testgetrieben, pragmatisch, nutzerzentriert, zukunftsorientiert
-
 
 ### Technologien & Tools
 
