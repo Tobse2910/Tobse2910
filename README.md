@@ -53,3 +53,8 @@ Assets & Favicon
 - Lege ein `favicon.ico` ins Root-Verzeichnis oder passe den Link im `index.html` an.
 - Wenn du Hotlinking vermeiden willst, lade die Bilder aus `data/projects.json` in dein Webspace-Verzeichnis (z. B. `public/`) und passe die `image`-Pfadwerte an.
 
+Automatisches Deployment
+
+- Dieses Repository enthält eine GitHub Actions Workflow-Datei `.github/workflows/pages.yml`, die bei jedem Push auf `main` den Inhalt in den Branch `gh-pages` pusht. Du kannst GitHub Pages so einstellen, dass es die Seite vom Branch `gh-pages` bedient, oder die Aktion anpassen.
+
+
