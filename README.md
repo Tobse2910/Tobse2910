@@ -41,3 +41,15 @@ In diesem Repository findest du:
 - Wenn du mir die URL deiner Website und ein paar Projekt-Details gibst, aktualisiere ich `projects.json` für dich.
 
 Viel Erfolg!
+
+## Deployment / Upload
+
+Du kannst die Seite sehr einfach hosten:
+
+- GitHub Pages (empfohlen): Repository in GitHub pushen, in den Repository-Einstellungen GitHub Pages aktivieren (Branch `main`, Root) — die Seite ist dann unter `https://<dein-nutzername>.github.io/<repo>` erreichbar.
+- FTP / Webspace: Lade die Dateien (`index.html`, `profile.html`, `css/`, `data/`) in dein Webroot hoch.
+
+Assets & Favicon
+- Lege ein `favicon.ico` ins Root-Verzeichnis oder passe den Link im `index.html` an.
+- Wenn du Hotlinking vermeiden willst, lade die Bilder aus `data/projects.json` in dein Webspace-Verzeichnis (z. B. `public/`) und passe die `image`-Pfadwerte an.
+

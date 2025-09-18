@@ -19,9 +19,24 @@ body{
   -webkit-font-smoothing:antialiased;
 }
 .container{max-width:var(--max-width);margin:0 auto;padding:28px}
+.nav{display:flex;align-items:center;justify-content:space-between}
+.topbar{border-bottom:1px solid rgba(255,255,255,0.02);padding:12px 0;background:transparent}
+.brand a{color:#fff;text-decoration:none;font-weight:700;font-size:1.05rem}
+.mainnav a{color:var(--muted);text-decoration:none;margin-left:18px}
+.mainnav a:hover{color:var(--accent)}
 .site-header{padding:56px 0 18px}
 .site-header h1{margin:0;font-size:2.6rem;letter-spacing:0.6px}
 .lead{color:var(--muted);margin-top:8px;max-width:720px}
+
+/* Hero */
+.hero{padding:40px 0 18px}
+.hero-inner{display:flex;align-items:center;justify-content:space-between;gap:28px}
+.hero-left{max-width:680px}
+.hero-left h1{font-size:2.4rem;margin:0}
+.hero-avatar{width:160px;height:160px;border-radius:18px;object-fit:cover;border:6px solid rgba(255,255,255,0.03)}
+.hero-cta{margin-top:18px;display:flex;gap:12px}
+.btn{padding:10px 14px;border-radius:10px;text-decoration:none;color:#e6eef8;background:rgba(255,255,255,0.03)}
+.btn.primary{background:linear-gradient(90deg,var(--accent),#6b4fff);font-weight:700}
 main{display:grid;grid-template-columns:260px 1fr;gap:32px;align-items:start}
 .toc{position:sticky;top:18px;background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);padding:18px;border-radius:12px}
 .toc h2{margin:0 0 8px 0;font-size:1.05rem}

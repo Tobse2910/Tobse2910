@@ -1,0 +1,22 @@
+:root{--bg:#0f1724;--accent:#7c5cff;--muted:#9aa4b2;--card:#0b1120;--radius:14px}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial;background:linear-gradient(180deg,#071021 0%, #081225 60%);color:#e6eef8}
+.container{max-width:1000px;margin:0 auto;padding:40px}
+.profile{display:flex;align-items:center;justify-content:center;height:100vh}
+.profile-card{display:flex;gap:28px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));padding:28px;border-radius:var(--radius);box-shadow:0 12px 40px rgba(2,6,23,0.7);align-items:center}
+.avatar img{width:160px;height:160px;object-fit:cover;border-radius:20px;border:6px solid rgba(255,255,255,0.03)}
+.info h1{margin:0 0 6px 0;font-size:1.8rem}
+.role{color:var(--muted);margin:0 0 12px}
+.bio{color:var(--muted);max-width:520px}
+.skills{display:flex;gap:10px;margin-top:12px}
+.skills span{background:rgba(255,255,255,0.03);padding:6px 10px;border-radius:10px;color:var(--muted)}
+.actions{margin-top:18px;display:flex;gap:10px}
+.btn{padding:10px 14px;border-radius:10px;text-decoration:none;color:#e6eef8;background:rgba(255,255,255,0.03)}
+.btn.primary{background:linear-gradient(90deg,var(--accent),#6b4fff);font-weight:700}
+.btn.ghost{background:transparent;border:1px solid rgba(255,255,255,0.06)}
+.socials{margin-top:16px;display:flex;gap:10px}
+.socials a{color:var(--muted);text-decoration:none}
+@media (max-width:900px){
+  .profile{padding:32px;height:auto}
+  .profile-card{flex-direction:column;align-items:center}
+}
