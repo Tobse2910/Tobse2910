@@ -68,4 +68,49 @@ Die Projektübersicht findest du in `index.html` — die Karten verlinken zu den
 
 Hinweis: GitHub zeigt die `README.md` im Repository–Überblick; um statische HTML-Seiten direkt online sichtbar zu machen, nutze GitHub Pages (Branch `gh-pages` oder `main`). Das Repo enthält bereits eine Action unter `.github/workflows/pages.yml`, die beim Push die Seite veröffentlicht.
 
+---
+
+### 📜 Zertifikate
+
+- 🏆 Grafikdesigner (2022)
+- ✏️ Computergrafiker (2023)
+- 🖌️ Webdesigner (2024)
+- 👨‍💻 Fachinformatiker Anwendungsentwicklung (laufend seit 2024, IHK Stuttgart)
+- 🐍 Python Grundlagen & SQL (2025)
+- 📦 Scrum (2025)
+
+[➡️ Alle Zertifikate ansehen](#)
+
+---
+
+### 🧰 Tech-Stack
+
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)]()
+[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)]()
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)]()
+
+[![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Postgres](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+
+---
+
+### 🎯 Fokusbereiche
+
+[![Grafikdesign](https://img.shields.io/badge/GRAFIKDESIGN-7C3AED?style=for-the-badge&logo=figma&logoColor=white)]()
+[![Frontend](https://img.shields.io/badge/FRONTEND-FF6B00?style=for-the-badge&logo=react&logoColor=white)]()
+[![Backend](https://img.shields.io/badge/BACKEND-00A3E0?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Fullstack](https://img.shields.io/badge/FULLSTACK-10B981?style=for-the-badge&logo=github&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+
 
