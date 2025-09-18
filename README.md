@@ -71,7 +71,7 @@ Ich erstelle moderne Frontend- und Node.js-Lösungen, automatisiere Deployments 
 
 ### Projekte
 
-Die Projektübersicht findest du in `index.html` — die Karten verlinken zu den Live-Demos auf https://kicodebyts.com.
+Die Projektübersicht findest du auf https://kicodebyts.com meiner Portfolioseite.
 
 1. Modernes Ticketsystem (für Kommunen/Unternehmen). 
 
