@@ -123,4 +123,19 @@ Weitere projekte findest du natürlich auf meiner persönlichen Portfolio seite.
 [![Fullstack](https://img.shields.io/badge/FULLSTACK-10B981?style=for-the-badge&logo=github&logoColor=white)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 
+[![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+
+---
+
+### 🎯 Fokusbereiche
+
+[![Grafikdesign](https://img.shields.io/badge/GRAFIKDESIGN-7C3AED?style=for-the-badge&logo=figma&logoColor=white)]()
+[![Frontend](https://img.shields.io/badge/FRONTEND-FF6B00?style=for-the-badge&logo=react&logoColor=white)]()
+[![Backend](https://img.shields.io/badge/BACKEND-00A3E0?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Fullstack](https://img.shields.io/badge/FULLSTACK-10B981?style=for-the-badge&logo=github&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+
 
