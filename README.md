@@ -16,6 +16,9 @@
 33 Jahre, in Umschulung zum Fachinformatiker (Anwendungsentwicklung). Ich baue Web‑ und App‑Lösungen, setze KI‑Hilfen sinnvoll ein und lerne ständig neue Tools.
 Um dies gewissenhaft und in den richtigen Prozessen bedacht einzusetzen.
 
+### Meine Ziele
+Nach Abschluss meiner Umschulung plane ich eine vierwöchige Reise an die US-Westküste, um mein Englisch im Alltag zu verbessern, die Kultur kennenzulernen und neue Perspektiven zu sammeln. Mit dieser Energie möchte ich anschließend in das IT-Consulting einsteigen. Dort kann ich meine technischen Kenntnisse und Praxiserfahrung in eine klare, kundenorientierte Beratung einbringen – von der Anforderungsanalyse über die Konzeption bis zur Umsetzung und Begleitung.
+
 ---
 
 ### 📚 Kurzübersicht
@@ -80,6 +83,7 @@ Weitere projekte findest du natürlich auf meiner persönlichen Portfolio seite.
 
 - 👨‍💻 Fachinformatiker Anwendungsentwicklung (laufend seit 2024, IHK Stuttgart)
 - 🐍 Python Grundlagen & SQL (2025)
+- 🐍 Englisch B2
 ---
 
 ### 🧰 Tech-Stack
