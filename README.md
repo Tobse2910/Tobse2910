@@ -1,5 +1,5 @@
-<!-- Banner image: keeps README visually similar to screenshot -->
-[![banner](https://images.unsplash.com/photo-1503264116251-35a269479413?q=80&w=1600&auto=format&fit=crop&ixlib=rb-4.0.3&s=5f3b2d7b6c0ee3c4b6e8f1f5f2d6b3d2 "banner")]
+<!-- Local SVG banner for a personalised look -->
+[![banner](./assets/banner.svg "banner")]
 
 # Tobias Schlothane — Portfolio
 
