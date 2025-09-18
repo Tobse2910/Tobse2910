@@ -2,8 +2,12 @@
 
 # Tobias Schlothane
 
-> 33 Jahre · Umschulung Fachinformatiker (Anwendungsentwicklung) · Web & App · KI‑gestützte Lösungen
-
+- 33 Jahre Alt
+- Umschulung Fachinformatiker (Anwendungsentwicklung) · Web & App 
+- KI‑gestützte Lösungen
+- Kenntinsse in MS office 
+- Grafikdesing & Fotografie
+- aktiv im American Football in Backnang bei denn Wolverines 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=github)](https://Tobse2910.github.io/Tobse2910/)
 [![Profile](https://img.shields.io/badge/PROFILE-gray?style=for-the-badge&logo=github)](https://Tobse2910.github.io/Tobse2910/profile.html)
 [![Open To Work](https://img.shields.io/badge/OPEN--TO--WORK-green?style=for-the-badge&logo=google)](#contact)
@@ -17,7 +21,8 @@
 Um dies gewissenhaft und in den richtigen Prozessen bedacht einzusetzen.
 
 ### Meine Ziele
-Nach Abschluss meiner Umschulung plane ich eine vierwöchige Reise an die US-Westküste, um mein Englisch im Alltag zu verbessern, die Kultur kennenzulernen und neue Perspektiven zu sammeln. Mit dieser Energie möchte ich anschließend in das IT-Consulting einsteigen. Dort kann ich meine technischen Kenntnisse und Praxiserfahrung in eine klare, kundenorientierte Beratung einbringen – von der Anforderungsanalyse über die Konzeption bis zur Umsetzung und Begleitung.
+Nach Abschluss meiner Umschulung plane ich eine vierwöchige Reise an die US-Westküste, um mein Englisch im Alltag zu verbessern, die Kultur kennenzulernen und neue Perspektiven zu sammeln. Mit dieser Energie möchte ich anschließend in das IT-Consulting einsteigen. Dort kann ich meine technischen Kenntnisse und Praxiserfahrung in eine klare, kundenorientierte Beratung einbringen
+von der Anforderungsanalyse über die Konzeption bis zur Umsetzung und Begleitung.
 
 ---
 
@@ -38,7 +43,7 @@ Nach Abschluss meiner Umschulung plane ich eine vierwöchige Reise an die US-Wes
 
 ### Projekte
 
-Die Projektübersicht findest du auf https://kicodebyts.com meiner Portfolioseite.
+
 
 1. Modernes Ticketsystem (für Kommunen/Unternehmen). 
 
@@ -69,7 +74,7 @@ Die Projektübersicht findest du auf https://kicodebyts.com meiner Portfolioseit
 
 10. VK-Assist Polizei (digitale Verkehrskontroll-Dokumentation). 
 
-Weitere projekte findest du natürlich auf meiner persönlichen Portfolio seite. 
+Weitere Projekte findest du auf https://kicodebyts.com meiner Portfolioseite. 
 ---
 
 ### Kontakt
