@@ -72,6 +72,7 @@ Weitere projekte findest du natürlich auf meiner persönlichen Portfolio seite.
 ### Kontakt
 
 - E‑Mail: Kicodebyts@outlook.com
+📍 Standort: Stuttgart, Deutschland
 
 ---
 
